@@ -1,0 +1,40 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.welcome{
+   background: url("clown_station.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.kowabunga_title_welcome{
+    color: white; 
+    font-family: Bookman Old Style; 
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 0.5em;
+    text-shadow: 0 0 10px #034959;
+}
+
+.content_container{
+    position:absolute;
+    right:8%;
+    width:85%;
+    height:75%;
+    box-shadow:0 2px 2px 1px rgba(64,64,65,.11)
+}
+
+.content_container{
+    background-color:#ffffff;
+    border-right:0;
+    border-bottom:0;
+    top:25%;
+    display:block;
+    overflow:auto;
+    background:rgba(255,255,255,0.7);
+    width:84%;
+}
