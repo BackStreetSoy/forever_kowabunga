@@ -38,3 +38,27 @@
     background:rgba(255,255,255,0.7);
     width:84%;
 }
+
+#navigation{
+    position:absolute;
+    top: 1%;
+    left: 1%;
+}
+
+
+ul#navigation {
+    padding:0;
+    z-index:1;
+}
+
+ul#navigation li {
+    display:inline;
+}
+
+ul#navigation li a {
+    background-color:black;
+    color:white;
+    padding:10px 20px;
+    text-decoration:none;
+}
+
