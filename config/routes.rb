@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+
+
   get 'game/index'
 
   get 'game/show'
@@ -8,6 +10,8 @@ Rails.application.routes.draw do
   get 'enter/index'
 
   get 'about/index'
+
+  resources :writings
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

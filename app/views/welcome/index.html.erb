@@ -1,0 +1,29 @@
+<br><br><section class = "newest_writing">
+
+ 
+<div><img src="" id="writing_image"></img></div>
+
+  <div id="writing_title">
+    <p></p>
+  </div>
+
+  <div id="writing_content">
+    <p></p>
+  </div>
+
+</section>
+
+
+<div class="list_caption">
+    <h4 style="color: black; font-family: Bookman Old Style; font-weight: bold;">Critic's Choice Reading List___</h4>
+</div>
+
+<div id ="writing_list">
+    <br>
+    <ul>
+      <%@writings.each do |writing| %>
+      <div id="list_item"><li><%=image_tag writing.image, id: "list_image"%>
+        <div id="list_title"><%=link_to writing.title, writing_path(writing), id: "writing_link" %></div></li></div><br><br>
+      <%end%>
+    </ul>
+  </div>

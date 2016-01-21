@@ -24,7 +24,7 @@
     position:absolute;
     right:8%;
     width:85%;
-    height:75%;
+    height:300%;
     box-shadow:0 2px 2px 1px rgba(64,64,65,.11)
 }
 
@@ -34,7 +34,7 @@
     border-bottom:0;
     top:25%;
     display:block;
-    overflow:auto;
+    overflow: auto;
     background:rgba(255,255,255,0.7);
     width:84%;
     z-index: -1;
@@ -62,4 +62,7 @@ ul#navigation li a {
     padding:10px 20px;
     text-decoration:none;
 }
+
+
+
 
