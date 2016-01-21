@@ -12,7 +12,7 @@ var prompts = [
      "name": "have_a_baby",
      "promptContent":'<p>You squeeze a baby out of your being. After thorough analysis you come to the conclusion that  it\'s a girl. Hating to enforce labels, you tell the baby to name herself. She blows a booger bubble out of her nose, which makes you laugh merrily and say.. </p>',
      "promptImage": "/assets/have_a_baby.png",
-     "promptChoices": [["Jason it is!", "That's not an answer you idiot! What's your name?", "Hey, I wish we could talk some more but I've got this note stapled to my chest that I should read."], true]
+     "promptChoices": [["Jason it is!", "That's not an answer you idiot! What's your name?", "I\'m bored, I\'m gonna read this note on my chest."], true]
 
     }, 
 
@@ -31,7 +31,7 @@ var prompts = [
     },
 
       {
-        "name": "Hey_I_wish_we_could_talk_some_more_but_Ive_got_this_note_stapled_to_my_chest_that_I_should_read",
+        "name": "Im_bored_Im_gonna_read_this_note_on_my_chest",
         "promptContent": '<p>The blood note says “Hey man, while you were screaming and vomiting I murdered your entire family. My bad. I think I wasn\'t raised good or something. Signed, Jake O\'Malley". </p> <p>You crumple the note in your hand, swallow it whole, and ask yourself who could have done this? Before you can piece it all together your doorbell rings.</p>',
         "promptImage":"/assets/blood_letter.png",
         "promptChoices":[["answer your door", "think about whether or not paper has gluten in it"], false]
@@ -396,14 +396,14 @@ var prompts = [
     "name": "answer_your_door",
     "promptContent": "<p>You get out of bed, and and walk to your living room.  There you see the bodies of your deceased relatives, it's kind of a pain to have to walk over them to answer the door.</p> <p>When you open the door you see a man in a trench coat and fedora with an advertisement for the Dark Knight, he introduced himself as     Detective Wallace, no relation to William Wallace. You tell him that you didn't assume there    was a relationship. Embarrassed, he quickly changes the subject.</p> <p>“Your family has been murdered, the feds are all over the case, but the thing is we already know    who did it. It was Jake O'Malley. Famed diamond thief and family killer. He lives two blocks    from here, we need you to give him the firmest talking to anybody has ever given.”</p>",
     "promptImage": "/assets/detective_wallce.png",
-    "promptChoices": [["I\'m going to give him a talking to firmer than a handshake between two coked out business executives.", "Can\'t you see that I\'m in mourning?", "What\'s this guy\'s problem?" ], true]
+    "promptChoices": [["Let\'s robo this guy\'s cop!","Can\'t you see that I\'m in mourning?","What\'s this guy\'s problem?" ], true]
 },
 
 {
     "name": "Whats_this_guys_problem",
     "promptContent": "<p>\"It's hard to say for certain, but violence is sometimes symptomatic of a larger issue within a persons psychology. So really this could have happened for a number of reasons. Some might     try to interpret it as the tragic act of an individual tormented by isolation, others might say the     perpetrator was simply a sick, hate filled individual.\"</p><p>“ Or Maybe your family was annoying. The possibilities are endless.”</p>",
     "promptImage": "/assets/detective_wallce.png",
-    "promptChoices": [["I don't like that explanation, but I respect it. I'll firmly talk to this dude."], true] 
+    "promptChoices": [["I don't like that explanation, but I respect it."], true] 
 }, 
 
 {
@@ -454,7 +454,7 @@ var prompts = [
 
 
 {
-    "name": "Im_going_to_give_him_a_talking_to_firmer_than_a_handshake_between_two_coked_out_business_executives",
+    "name": "Lets_robo_this_guys_cop",
     "promptContent": "<p>So you march over to where he is like a bat out of hell. Nobody has ever given the kind of talking to that you are about to lay on his candy ass. When you find him he knows what's about to happen, and he knows he messed up. You sit him down and you explain how not okay murder is. He agrees and his eyes start to water. You don't want to push the point because he looks like he's going to be pretty hard on himself.</p>",
     "promptImage": "/assets/firm_talking_to.png",
     "promptChoices": [["Leave"], false]
@@ -470,7 +470,7 @@ var prompts = [
 },
 
 {
-    "name": "I_dont_like_that_explanation_but_I_respect_it_Ill_firmly_talk_to_this_dude",
+    "name": "I_dont_like_that_explanation_but_I_respect_it",
     "promptContent": "<p>You scream wildly into the sky. This beckons an eagle to you. The eagle tells you its name is Scwaaaaaaaa Kwloo, which means Bird of Fire in eagle scream tongue. You relate your tale to Scwaaaaaaaa Kwloo. Scwaaaaaaaa shows you kindness and understanding and offers to regurgitate some of his morning meal into your mouth. You decline but ask if Scwaaaaaaaa can instead fly you to where you need to be in order to give one hell of a firm talking to.</p> <p> So you fly over to where the murder is like a bat out of hell. Nobody has ever given the kind of talking to that you are about to lay on his candy ass. When you find him he knows what's about to happen, and he knows he messed up. You sit him down and you explain how not okay murder is. He agrees and his eyes start to water. You don't want to push the point because he looks like he's going to be pretty hard on himself. </p>",
     "promptImage": "/assets/firm_talking_to.png",
     "promptChoices": [["Leave"], false]
