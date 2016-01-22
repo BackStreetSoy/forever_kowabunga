@@ -57,3 +57,15 @@ al_roker = Writing.create(title:"To My Father, Al Roker", content: "<p>Dear Dad,
 <p>May the winds forever whisper over your beautiful bald head,<p>
 
 K. ".html_safe, image: "https://ronemajicatl2.files.wordpress.com/2013/01/al-roker.jpg")
+
+
+
+
+murdered_family = Game.create(title:"Somebody Just Murdered Your Entire Family; Give Them the Firm Talking To of a Life Time.", image: "http://i2.wp.com/www.auditionsfree.com/content/user/2014/06/family-tv-commercial.jpg?zoom=2&resize=665%2C442")
+
+
+
+
+
+
+

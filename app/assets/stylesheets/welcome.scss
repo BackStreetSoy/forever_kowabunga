@@ -3,20 +3,26 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
+
+
 .welcome{
    background: url("clown_station.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  height: 0px;
+  width: 0px;
 }
 
 .kowabunga_title_welcome{
+    position: absolute;
+    left: 15%;
     color: white; 
     font-family: Bookman Old Style; 
     font-size: 2em;
     text-align: center;
-    margin-bottom: 0.5em;
+    margin-bottom: 10px;
     text-shadow: 0 0 10px #034959;
 }
 
@@ -44,6 +50,7 @@
     position:absolute;
     top: 1%;
     right: 1%;
+    z-index: 2;
 }
 
 
@@ -56,10 +63,11 @@ ul#navigation li {
     display:inline;
 }
 
+
 ul#navigation li a {
     background-color:black;
     color:white;
-    padding:10px 20px;
+    padding: 20px 20px;
     text-decoration:none;
 }
 
