@@ -145,7 +145,7 @@ var prompts = [
     "promptChoices": [["That is an accurate description of my personality yeah"], true]
     },
 
-//----this has the potential to be where i fucked everything up ---//
+
     {"name": "No_I_cant_Baby_Jason_I_have_a_life_here_a_good_life_with_friends_and_family_It_wouldnt_be_right",
      "promptContent": "<p>Baby Jason respects your decision. It is, after all, yours to make. She gets her little baby bindle   and walks off into the woods.</p>",
      "promptImage": "/assets/bindle_baby.png",
