@@ -14,6 +14,7 @@ $(document).ready(function(){
             url: $link.attr("href"),
             method: $link.attr("method"),
             success: function(response){
+                $(".vimeo_vid").hide();
                 $("#writing_title p").html(response.title);
                 $("#writing_content p").html(response.content);
                 $("#image").attr({"id": "writing_image", "src": response.image});

@@ -11,6 +11,7 @@
     width: 23%;
     overflow: auto;
     font-size: 13px;
+    font-family: Helvetica;
 }
 
 #list_item img{
@@ -38,8 +39,9 @@ a:hover, a:visited, a:link, a:active
 
 
 #writing_list a:hover{
-  text-decoration: underline;
+  text-decoration: none;
   text-align: none;
+  font-weight: bold;
 }
 
 .list_caption{
@@ -58,9 +60,9 @@ a:hover, a:visited, a:link, a:active
     position: absolute;
     top: 28%;
     height: 55%;
-    width: 35%;
+    width: 39%;
     left: 10%;
-    border: 1px solid rgba(255, 255, 255, .01);
+    border: 1px solid transparent;
     opacity: 1;
 }
 
