@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+
+    @font-face {
+        font-family: "Bookman Old Style";
+        src: url(/assets/BOOKOSB.TFF) format("truetype");
+    }
