@@ -7,17 +7,17 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 exorcism = Writing.create(title: "The Cancelled Exorcism".html_safe, content: "<p>Come dusk, Samantha Ohare's phone rings. The demon's moan renders her blood cold. She answers the phone saying nothing. </p>
-    <p>“Samantha?” the voice says on the other end. Phone in her hand, unable to speak, Samantha's eyes look up the stair case of her small north Virginia residence. Smoke snakes out of her daughter's room, the demon moans once more before the voice begins again. </p>
+    <p>“Samantha?” the voice says on the other end. Phone in her hand, unable to speak, Samantha's eyes look up at the stair case of her small north Virginia residence. Smoke snakes out of her daughter's room and the demon moans once more before the voice begins again. </p>
     <p>“Samantha? This is Father Jensmit. I'm calling because well, I kind of spaced and forgot that I already committed to a thing tonight, so I'm afraid I'm going to have to take a raincheck on that exorcism we had planned tonight.” </p>
-    <p>When father Jensmit utters those words blood rushes to her Samantha's ears and her head begins to throb. The demon's moans transform into actual decipherable words. “The sow is mine! The morning star will rise again! Have you thought about what Cheetos are made out of?” The unholy beast begins to do a stand up set, and somewhere a three eyed jackal is born. </p>
+    <p>When the priest utters those words blood rushes to Samantha's ears and her head begins to throb. The demon's moans transform into actual decipherable words. “The sow is mine! The morning star will rise again! Have you thought about what Cheetos are made out of?” The unholy beast begins to do a stand up set, and somewhere a three eyed jackal is born. </p>
     <p>“Reschedule the exorcism? Father, my daughter has a demon inside of her. What do you expect me to do?” </p>
     <p>“Mrs. Ohare I'm not afraid of your possessed daughter if that's what you are asking me. I am a grown man with direct access to God, even if your daughter has an agent of pure evil living inside her I assure you, I can take her.” Father Jensmit clarifies. </p>
     <p>Direct line to God or not, Samantha is pissed. “Cut the shit father, if you don't want to come over here to do the responsible thing, then just say so. Don't make up some excuse about prior engagements. Do I have to remind you that lying is a sin?” The man of God remains silent. “So what is it you expect me to do here?” </p>
-    <p>“Well, Mrs. O'hare have you considered ordering some of your own holy water from Amazon? They offer premium deals if you buy by the gallon. And since I consider myself an authority on this I can tell you that Jesus himself wouldn't even be able to resist the kind of deals amazon offers.”</p> 
+    <p>“Well, Mrs. O'hare have you considered ordering some of your own holy water from Amazon? They offer premium deals if you buy by the gallon. Jesus himself wouldn't even be able to resist the kind of deals amazon offers.”</p> 
     <p>The lengths the father was willing to go to not see her daughter is its own kind of miracle. Samantha smells his fear-sweat through the phone. “Father nobody here would dare question the quality deals Amazon offers its customers, but no matter how fast their priority shipping is, my daughter and I can't afford that kind of time. We need you to perform that exorcism right now!”</p>
     <p>“What do you call it when you hug a heart?” the godless voice booms, “a Cardiac Caress!” It proceeds to laugh the thousand laughs of legion. </p>
     <p>“It's also telling these shit jokes. Why don't you pop in real fast, do a quickie exorcism and then go do whatever it is you need to do? In and out.” </p>
-    <p>“I'd love to really I would but my hands are tied here, besides there's no such thing as a quickie in and out' exorcism. I'm not some nickel and dime drive through priest.” </p>
+    <p>“I'd love to really I would but my hands are tied here, besides there's no such thing as a quickie 'in and out' exorcism. I'm not some nickel and dime drive through priest.” </p>
     <p>“No you are just a nickel and dime dipshit,” Samantha utters under her breath. 
     “What was that Mrs. Ohare?” </p>
     <p>“I said, YOU ARE A NICKEL AND DIME DIPSHIT!” </p>
